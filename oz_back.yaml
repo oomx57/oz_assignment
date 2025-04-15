@@ -1,8 +1,10 @@
-team : oz_back
+team: oz_back
 
-leader : 은빈
+leader: 은빈
 
-member : 
+member:
 - 은기
 - 정건
 - 두홍
+- 가연
+coach : 성민
